@@ -1,0 +1,36 @@
+* {
+  text-decoration: none;
+  color: #000;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  font-size: 56px;
+  text-align: center;
+  border-bottom: 4px black solid;
+}
+
+main {
+  width: 70%;
+  display: inline-flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+button {
+  padding: 15px;
+  border: 2px solid black;
+  font-size: 15px;
+  width: fit-content;
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
